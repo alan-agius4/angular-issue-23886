@@ -13,7 +13,6 @@ const options = {
 	outDir: './dist',
 	declaration: true,
 	skipLibCheck: true,
-	noEmitOnError: false,
 
 	// ng compiler options
 	enableResourceInlining: true
