@@ -19,7 +19,7 @@ const options = {
 	enableResourceInlining: true
 };
 
-let host = ng.createCompilerHost({
+const host = ng.createCompilerHost({
 	options
 });
 
